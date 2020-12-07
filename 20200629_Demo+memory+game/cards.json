@@ -1,0 +1,99 @@
+{
+  "deck": [
+    {
+      "set": "duck",
+      "card1": "duck",
+      "card2": "duck"
+    },
+    {
+      "set": "kitten",
+      "card1": "kitten",
+      "card2": "kitten"
+    },
+    {
+      "set": "piglet",
+      "card1": "piglet",
+      "card2": "piglet"
+    },
+    {
+      "set": "puppy",
+      "card1": "puppy",
+      "card2": "puppy"
+    },
+    {
+      "set": "calf",
+      "card1": "calf",
+      "card2": "calf"
+    },
+    {
+      "set": "veal",
+      "card1": "veal",
+      "card2": "veal"
+    },
+    {
+      "set": "lamb",
+      "card1": "lamb",
+      "card2": "lamb"
+    },
+    {
+      "set": "rooster",
+      "card1": "rooster",
+      "card2": "rooster"
+    },
+    {
+      "set": "horse",
+      "card1": "horse",
+      "card2": "horse"
+    },
+    {
+      "set": "mouse",
+      "card1": "mouse",
+      "card2": "mouse"
+    },
+    {
+      "set": "dog",
+      "card1": "dog",
+      "card2": "dog"
+    },
+    {
+      "set": "cat",
+      "card1": "cat",
+      "card2": "cat"
+    },
+    {
+      "set": "goose",
+      "card1": "goose",
+      "card2": "goose"
+    },
+    {
+      "set": "goat",
+      "card1": "goat",
+      "card2": "goat"
+    },
+    {
+      "set": "sheep",
+      "card1": "sheep",
+      "card2": "sheep"
+    },
+    {
+      "set": "pig",
+      "card1": "pig",
+      "card2": "pig"
+    },
+    {
+      "set": "cow",
+      "card1": "cow",
+      "card2": "cow"
+    },
+    {
+      "set": "chick",
+      "card1": "chick",
+      "card2": "chick"
+    },
+    {
+      "set": "hen",
+      "card1": "hen",
+      "card2": "hen"
+    }
+  ]
+}
